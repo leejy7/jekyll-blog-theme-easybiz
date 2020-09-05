@@ -1,18 +1,18 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
+title:              "Izzy's Easy Business"
+tagline:            "The joy of winning strategies - That easy!"
 email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+description:        "An easy guide to successful global business"
+author:             "Isabel Lee"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://easybiz.kr"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/blog_thumbnail.png"
 
 # Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+twitter_username:
+instagram_username:
+facebook_username:
+linkedin_username:  
 
 # Build settings
 markdown:           kramdown

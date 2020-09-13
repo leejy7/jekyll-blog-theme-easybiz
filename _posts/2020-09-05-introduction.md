@@ -85,7 +85,7 @@ Chapter 1. Nestle Korea - Nespresso Korea, Lotte-Nestle Korea [F&B, Food process
 Chapter 2. Starbucks Coffee Korea [F&B services]<br>
 Chapter 3. P&G Korea [Personal care goods, Cosmetics]<br>
 Chapter 4. Johnson and Johnson Korea<br>
-  [Personal care goods, Cosmetics / Medicine, Pharmaceuticals, Bio-technology]
+  [Personal care goods, Cosmetics / Medicine, Pharmaceuticals, Bio-technology]<br>
 Chapter 5. eBay Korea [eCommerce]<br>
 Chapter 6. Delivery Hero Korea [eCommerce]<br>
 Chapter 7. IKEA Korea [Retail and wholesale]<br>

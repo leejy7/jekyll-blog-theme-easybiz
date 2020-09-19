@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://easybiz.kr/sitemap.xml
+
+DaumWebMasterTool:d8680f5be8d7121265331ddff19ba2e63e4eed3b6cda471767b85e3c67c5807b:SkzY+iibjkK3lYUDIfzDEw==
